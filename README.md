@@ -16,6 +16,10 @@ Add your community cats to the site to share the joy they bring with your neighb
 
 ## Planning
 ### Wireframes
+|Home page|
+|---------|
+<img src="blob/master/Wireframes/Wireframes%20-%20Landing.PNG>
+
 
 ## Acknowledgements
 To my team, Hafiz and Saiful, who helped built it to my vision - and very well.
