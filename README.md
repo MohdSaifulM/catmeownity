@@ -16,11 +16,13 @@ Add your community cats to the site to share the joy they bring with your neighb
 
 ## Planning
 ### Wireframes
-|Home page|
-|---------|
-![Home Page](/blob/master/Wireframes/Wireframes%20-%20Landing.PNG)
+|Home page|Login|Dashboard|
+|---------|------|--------|
+|![Home Page](https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Landing.PNG)|https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Login.PNG|https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Dashboard.PNG|
 
-
+|Search|User Profile|Cat Profile|
+|------|------------|-----------|
+|https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Search.PNG|https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20User%20profile.PNG|https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Cat%20Profile.PNG|
 ## Acknowledgements
 To my team, Hafiz and Saiful, who helped built it to my vision - and very well.
 <br/>
