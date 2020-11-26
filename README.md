@@ -18,11 +18,11 @@ Add your community cats to the site to share the joy they bring with your neighb
 ### Wireframes
 |Home page|Login|Dashboard|
 |---------|------|--------|
-|![Home Page](https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Landing.PNG)|https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Login.PNG|https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Dashboard.PNG|
+|![Home Page](https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Landing.PNG)|![Login]https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Login.PNG|![Dashboard]https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Dashboard.PNG|
 
 |Search|User Profile|Cat Profile|
 |------|------------|-----------|
-|https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Search.PNG|https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20User%20profile.PNG|https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Cat%20Profile.PNG|
+|![Search]https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Search.PNG|![User Profile]https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20User%20profile.PNG|![Cat Profile]https://git.generalassemb.ly/ryhuz/catmeownity/blob/master/Wireframes/Wireframes%20-%20Cat%20Profile.PNG|
 ## Acknowledgements
 To my team, Hafiz and Saiful, who helped built it to my vision - and very well.
 <br/>
