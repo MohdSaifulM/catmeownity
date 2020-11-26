@@ -18,7 +18,7 @@ Add your community cats to the site to share the joy they bring with your neighb
 ### Wireframes
 |Home page|
 |---------|
-[Home Page](/blob/master/Wireframes/Wireframes%20-%20Landing.PNG)
+![Home Page](/blob/master/Wireframes/Wireframes%20-%20Landing.PNG)
 
 
 ## Acknowledgements
